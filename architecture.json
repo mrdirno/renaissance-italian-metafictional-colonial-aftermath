@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-metafictional-colonial-aftermath",
+  "title": "The Cartographers of Silence",
+  "tagline": "In a Renaissance palazzo where stories are the true currency, a thief's stolen fig entangles him in the brutal editing of a colonial narrative.",
+  "target_words": 76684,
+  "actual_words": 76684,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Power and Violence of Narrative",
+    "Colonialism as a Literary Act",
+    "Theft of Voice and Fruit",
+    "The Metafiction of Empire"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Fig Over the Wall",
+      "words": 6390
+    },
+    {
+      "ch": 2,
+      "title": "A Kingdom of Steam and Leeks",
+      "words": 6390
+    },
+    {
+      "ch": 3,
+      "title": "The Seal of the Dying Horse",
+      "words": 6390
+    },
+    {
+      "ch": 4,
+      "title": "A Ghost of Paper and Ink",
+      "words": 6390
+    },
+    {
+      "ch": 5,
+      "title": "The Abandoned Name",
+      "words": 6390
+    },
+    {
+      "ch": 6,
+      "title": "A Knot for Maya",
+      "words": 6390
+    },
+    {
+      "ch": 7,
+      "title": "The Palisade of Living Bamboo",
+      "words": 6390
+    },
+    {
+      "ch": 8,
+      "title": "The Taste of Salt",
+      "words": 6390
+    },
+    {
+      "ch": 9,
+      "title": "The Weight of a Held Breath",
+      "words": 6390
+    },
+    {
+      "ch": 10,
+      "title": "The Devouring Green",
+      "words": 6390
+    },
+    {
+      "ch": 11,
+      "title": "Stillness on Cracked Pavement",
+      "words": 6390
+    },
+    {
+      "ch": 12,
+      "title": "A Fig Returned to Earth",
+      "words": 6390
+    }
+  ]
+}
